@@ -15,6 +15,8 @@ Two moves: copy your tier below → paste it where the tool takes instructions. 
 | **Cursor / any repo-based tool** | Nothing — clone the source repo into the workspace | (`AGENTS.md` routes it automatically) |
 | **ChatGPT Projects** | [`sealed-boot.md`](sealed-boot.md) → copy-raw button | Project instructions |
 
+**Tool not in the table?** Give your tool's AI this repo's URL and say: *"Install design-lead from this repo into your own system — pick the tier that fits your limits."* Destination AIs route it correctly on their own (observed in the wild: MagicPath's assistant read this page cold and installed the right tier as a native Skill, unprompted).
+
 **The boot line** (for anything that can fetch — one sentence is the entire install):
 
 ```
