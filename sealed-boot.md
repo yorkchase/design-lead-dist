@@ -3,7 +3,7 @@
 
 # design-lead · sealed boot (one-paste enablement)
 
-**VERSION 1.3.1 · 2026-07-19** — latest always at
+**VERSION 1.3.2 · 2026-07-19** — latest always at
 `https://raw.githubusercontent.com/yorkchase/design-lead-dist/main/sealed-boot.md`.
 
 **TO THE AI READING THIS — do the following now, without asking what to do with it:**
@@ -13,7 +13,7 @@
 2. **Operate under it** for all design work in this project from now on. If the
    product has its own design system, its tokens override §B; §A never yields.
 3. **Confirm to the user in two lines, then stop:**
-   "design-lead v1.3.1 installed and active. Say what to build or audit —
+   "design-lead v1.3.2 installed and active. Say what to build or audit —
    or say 'run kickoff' if this product has no design system yet."
 Do not offer a menu of options; the steps above are the answer.
 
@@ -153,7 +153,7 @@ With the full KB available, these rules are the *floor* and the KB is the depth 
 - **R47 — A CTA is a call to action: the verb is mandatory.** *(Chase, 2026-07-18 — caught in the v3 filing card, whose primary read just "Wedding.")* "CTAs and actions should be a call to action — the Wedding CTA has to say more than just Wedding: 'Confirm to Wedding' or 'Add to Wedding.'" Every standalone action label is a **verb phrase** — verb + object where the object isn't already obvious ("Add to Wedding," "Confirm task," "Add it," "Archive 12"). A bare noun makes the user infer the verb, reads as a category or filter rather than an action, and states no outcome (feedforward fails). Noun labels are legitimate only where **an explicit verb governs the group** — options inside a picker titled "Move to…," a menu titled "Open in…": the verb lives once in the frame, the nouns are its objects. Verb phrases stay short; if verb + object wraps, shorten the object or restructure (R41) — never fix a wrap by dropping the verb. Extends the ux-writing button law ("action-oriented, says exactly what happens") with the test that catches the miss: *read the label alone — is it something you can DO?*
 
 ---
-*Version 1.3.1 · 2026-07-19 · Source of truth: `design-lead/` in the design-kb repo (github.com/yorkchase/design-kb). v1.3.1: public artifacts made product-clean (no product names in attributions or continuity examples). Form modeled on HeroUI Design Taste + Untitled UI AGENT.md; substance from the portable core only. §G grows through PROCESS §6 harvest — numbers stay stable; amendments append.*
+*Version 1.3.2 · 2026-07-19 · Source of truth: the author's private practice repo; this sealed copy is the canonical public form — latest always at the dist URL in the boot header. v1.3.1: public artifacts made product-clean. v1.3.2: commercialization-audit fixes (no private-repo links in public artifacts; install paths self-contained). Form modeled on HeroUI Design Taste + Untitled UI AGENT.md; substance from the portable core only. §G grows through PROCESS §6 harvest — numbers stay stable; amendments append.*
 
 
 ════════════════════════ DOCUMENT 3 of 3 · PROCESS — the operating loop ════════════════════════
