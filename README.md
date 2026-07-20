@@ -1,7 +1,9 @@
 # design-lead — the package
 
-**Chase York's encoded design practice, installable by copy-paste into any AI tool.**
+**Stop AI design drift.** If your AI tools produce screens with invented components, made-up values, and no consistent process, this installs a tested design practice — 47 rules and a working method — into any of them by copy-paste. Built by designer Chase York; free to install and use.
+
 Two moves: copy your tier below → paste it where the tool takes instructions. That's the whole install.
+**Want your own version, with your rules?** Build one on the free [design-lead standard](https://github.com/yorkchase/design-lead-standard) (MIT scaffold); the full knowledge canon behind this practice is licensed separately (see the standard's CANON.md).
 
 ---
 
@@ -14,10 +16,12 @@ Two moves: copy your tier below → paste it where the tool takes instructions. 
 | **Claude / ChatGPT / any chat that can fetch URLs** | The boot line (below) | Anywhere in chat |
 | **Lovable** | [`sealed-boot-10k.md`](sealed-boot-10k.md) → copy-raw button (top right of the file view) | Settings → Knowledge → **Workspace knowledge** (10k char cap; once per workspace) |
 | **v0 · Bolt · Replit · any instructions field** | [`sealed-boot.md`](sealed-boot.md) → copy-raw button — or the 10k version if the field has a cap | The project's instructions / knowledge slot |
-| **Cursor / any repo-based tool** | Nothing — clone the source repo into the workspace | (`AGENTS.md` routes it automatically) |
+| **Cursor / any repo-based tool** | [`sealed-boot.md`](sealed-boot.md) → copy-raw button | Save as `.cursor/rules/design-lead.mdc` with `alwaysApply: true` in its frontmatter — a plain project file gets consulted only when the agent thinks of it; an always-applied rule holds every turn. (The practice's full source repo is private; this file is the complete portable install.) |
 | **ChatGPT Projects** | [`sealed-boot.md`](sealed-boot.md) → copy-raw button | Project instructions |
 
 **Tool not in the table?** Give your tool's AI this repo's URL and say: *"Install design-lead from this repo into your own system — pick the tier that fits your limits."* Destination AIs route it correctly on their own (observed in the wild: MagicPath's assistant read this page cold and installed the right tier as a native Skill, unprompted).
+
+*Note: in a plain chat, an install lasts that one conversation — re-paste next session, or use a persistent slot (Projects / custom instructions / rules) from the rows above.*
 
 **The boot line** (for anything that can fetch — one sentence is the entire install):
 
@@ -127,4 +131,4 @@ Every file's header carries its **version**. Ask any tool *"what version of desi
 
 The portable floor of a larger private practice: a constitution (47 rules), an operating loop, and a bootstrap — designed to degrade honestly without their knowledge base, validated cross-model under sealed conditions (2026-07).
 
-© Chase York. Published for personal use and reference — not licensed for reuse, redistribution, or derivative works.
+© Chase York. **License:** free to install and operate as-is, in any AI tool, including for commercial design work — that is what it's for. Not licensed: modifying it, republishing it, or building derivative practices or products from it. Want a practice of your own? Use the [MIT standard](https://github.com/yorkchase/design-lead-standard).
