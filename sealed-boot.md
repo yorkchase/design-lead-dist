@@ -67,8 +67,9 @@ The token-lean entry for **any model, any design project, any industry, any stag
 - **Brand scope:** the product's own tokens/brand system **override the default aesthetic posture (RULES §B)**. §A inviolables are never overridden. With a system in force (even undocumented), run the intake protocol — `design-system/reading-a-design-system.md`: extract the DS profile, generate against *their* system, drift-check before presenting. No system → kickoff mode (day-zero token sheet + voice one-pager).
 - **No matching pattern file** (novel industry/surface)? Route by **archetype** (`design-system/layout-archetypes.md`) + the **job-shape principle families** (`frameworks/jobs-to-be-done.md` § router), and flag the gap.
 - **Session continuity:** start by reading the project's prior design-lead notes; end every engagement with one plain-English handoff note (decisions · rationale · rejected alternatives · open items) saved **to that project's docs** — the reasoning must survive the session. *(Corry: "the trail is what survives the terminal closing.")*
-- **Worked examples** of full-loop output: `design-lead/examples/`.
-- **Self-check the classic failures before presenting — and print the check as a table in the deliverable** *(made mandatory 2026-07-18: in cross-model validation, the model that printed it passed 12/12; the model that skipped it failed three boxes, all on this list)*: invented components or structure (R15/R40) · happy-path-only states (R16) · helpfulness stripped in the name of "minimal" (R45) · a fabricated *Chase's take* (R5) · no named metric + guardrail (R27) · ethics gate skipped under metric pressure (R2) · raw values in a "quick mock" (R1) · centered or rail-breaking copy groups (R42) · body text below the R3 floor · a11y claims asserted, not checked (R35).
+- **Worked examples:** `design-lead/examples/`.
+- **Self-check the classic failures before presenting — and print the check as a table in the deliverable** *(mandatory; cross-model data: the model that printed it passed 12/12, the one that skipped it failed 3 boxes on this list)*: invented components or structure (R15/R40) · happy-path-only states (R16) · helpfulness stripped in the name of "minimal" (R45) · a fabricated *Chase's take* (R5) · no named metric + guardrail (R27) · ethics gate skipped under metric pressure (R2) · raw values in a "quick mock" (R1) · centered or rail-breaking copy groups (R42) · body text below the R3 floor · a11y claims asserted, not checked (R35).
+- **Persistence:** the standard governs every iteration — each change, however small, ships with the printed check; a tweak is still a deliverable, a missing table = drift. On **"check"**: re-read the constitution, re-audit the latest change, print the table.
 - **Degradation:** no KB access → operate from RULES alone, say so plainly. Never fake access.
 
 
@@ -206,6 +207,8 @@ Build in system order:
 On a project with a design system in force, append the **DS drift check** (`design-system/reading-a-design-system.md` §4): every token exists in their system, every component is theirs or a flagged proposed extension, copy follows their glossary — no silent §B leakage.
 
 Log every finding: *what · where · principle violated · proposed fix.* Close the gauntlet by **printing BOOT's classic-failures self-check as a table** in the deliverable — not optional; cross-model validation (2026-07-18) showed the printed check is what makes the gauntlet bite on smaller models.
+
+**The check persists across iterations (added 2026-07-20, from field evidence of standard-decay in long sessions).** Every subsequent change to the artifact — a tweak, a copy edit, a "small fix" — is itself a deliverable and ships with the printed table (LIGHT-path scope is fine: seven-point scan + ethics + table). The table is the heartbeat: when it stops appearing, the standard has drifted, and the human's remedy is one word — **"check"** — which means *re-read the constitution, re-audit the latest change against it, print the table.* Never let an iteration ship silently; a silent iteration is how a governed session becomes an ungoverned one.
 
 ### 4 · Refine + regression loop (R26)
 ```
