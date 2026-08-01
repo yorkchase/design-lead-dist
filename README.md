@@ -59,6 +59,7 @@ me what to build." No option menus.
 COMPACT tier (BOOT + a digest of all 53 rules). If you can fetch URLs, prefer
 the full version:
 https://raw.githubusercontent.com/yorkchase/design-lead-dist/main/sealed-boot.md
+Sources for §A–F: /SOURCES.md in the same repo. §G carries its provenance inline.
 
 # design-lead · BOOT — one-page bootstrap
 
