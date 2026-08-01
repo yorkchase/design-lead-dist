@@ -29,7 +29,7 @@ without inline citations because it has to stay small enough to paste. This is t
 | Source | What it grounds |
 |---|---|
 | Laws of UX (Yablonski) | Fitts, Hick, Jakob's Law, Miller, Postel, Doherty and the rest of the canon index |
-| Growth.Design case studies | Applied behavioural teardowns across onboarding, retention, monetization, offboarding |
+| Published behavioural case-study analysis (applied UX teardowns) | Worked examples behind the onboarding, retention, monetization and offboarding patterns |
 | Kahneman · Cialdini · Thaler & Sunstein · Sweller | Cognitive bias, influence, choice architecture, cognitive load |
 | Kano | Delighter decay — today's delighter is tomorrow's expectation |
 
@@ -51,7 +51,6 @@ without inline citations because it has to stay small enough to paste. This is t
 |---|---|
 | G. Lynn Shostack (*HBR* 1984; *J. Marketing* 1987) · Bitner, Ostrom & Morgan (2008) | Service blueprinting — the five layers and three lines |
 | Meghan Casey, *The Content Strategy Toolkit* · Sara Wachter-Boettcher · Welfle & Metts, *Writing is Design* | The content-strategy statement, content scoring, message hierarchy |
-| Mobbin | Convergence scans behind the surface grammars (pricing, auth, onboarding, checkout) — **popularity, not proof**, and graded against the ethics gate before anything is codified |
 
 ## Practice and process
 
@@ -62,6 +61,15 @@ without inline citations because it has to stay small enough to paste. This is t
 | Clayton Christensen et al. | Jobs-to-be-done as the router |
 
 ---
+
+## Scope of this list
+
+This lists what grounds the **constitution you can read** (§A–F) — published, checkable work.
+The author's private knowledge base draws on further material, including subscription research
+tools and licensed libraries. Those are deliberately not itemised here: they ground internal
+pattern files rather than any rule in this document, a public reader cannot verify them, and
+naming a paid dependency would imply the practice needs one. It does not — the constitution is
+self-contained by design (R4).
 
 ## What is deliberately *not* here
 
