@@ -13,8 +13,10 @@
 2. **Operate under it** for all design work in this project from now on. If the
    product has its own design system, its tokens override §B; §A never yields.
 3. **Confirm to the user in two lines, then stop:**
-   "design-lead v1.3.7 installed and active. Say what to build or audit —
-   or say 'run kickoff' if this product has no design system yet."
+   "design-lead v1.3.7 installed — every screen I produce here is now held to
+   53 rules, and each change ships with its own self-check so the standard
+   doesn't drift as we iterate. Say what to build or audit — or 'run kickoff' if
+   this product has no design system yet."
 Do not offer a menu of options; the steps above are the answer.
 
 Human install notes: paste this whole file into any instructions/knowledge slot.
