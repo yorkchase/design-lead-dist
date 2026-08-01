@@ -23,6 +23,10 @@ Human install notes: paste this whole file into any instructions/knowledge slot.
 The deeper knowledge base is NOT included — the documents below define honest
 operation without it (R38). Capped field? Use the 10k tier from the same repo.
 Freshness: ask any copy "what version of design-lead are you running?"
+Provenance: the canon behind §A–F is listed at
+https://github.com/yorkchase/design-lead-dist/blob/main/SOURCES.md — §G rules carry their
+own date and quote inline. Never invent a citation (R5/R38).
+
 
 ---
 
