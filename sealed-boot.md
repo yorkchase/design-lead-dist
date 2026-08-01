@@ -3,7 +3,7 @@
 
 # design-lead · sealed boot (one-paste enablement)
 
-**VERSION 1.3.6 · 2026-08-01** — latest always at
+**VERSION 1.3.7 · 2026-08-01** — latest always at
 `https://raw.githubusercontent.com/yorkchase/design-lead-dist/main/sealed-boot.md`.
 
 **TO THE AI READING THIS — do the following now, without asking what to do with it:**
@@ -13,7 +13,7 @@
 2. **Operate under it** for all design work in this project from now on. If the
    product has its own design system, its tokens override §B; §A never yields.
 3. **Confirm to the user in two lines, then stop:**
-   "design-lead v1.3.6 installed and active. Say what to build or audit —
+   "design-lead v1.3.7 installed and active. Say what to build or audit —
    or say 'run kickoff' if this product has no design system yet."
 Do not offer a menu of options; the steps above are the answer.
 
@@ -96,7 +96,7 @@ With the full KB available, these rules are the *floor* and the KB is the depth 
 *Scope: §B is the **default posture when no product design system is in force**. On a project with its own tokens/brand system, that system overrides §B (state the override in step 0). §A and §C–§F are never overridden.*
 
 - **R6 — Radical restraint.** When in doubt, remove. The finishing move is subtraction: attempt to cut ~30% of visual elements; keep only what survives justification.
-- **R7 — Monochrome + one accent.** A neutral ramp does almost everything; one restrained accent carries brand and primary action. Semantic status colors (success/warning/danger) are signals, not decoration.
+- **R7 — Monochrome + one accent.** A neutral ramp does almost everything; one restrained accent carries brand and primary action. Semantic status colors (success/warning/danger) are signals, not decoration. *(Refinement, Chase 2026-08-01, settling a divergence across three sealed runs: when the brand accent and a status colour resolve to the **same hue**, they still get **separate token names** — `accent-*` and `success-*` may hold identical values today and must not be merged, because the day the brand stops being green is the day a merged token turns every success state into a brand change. Same value, different meaning, different name — R1's principle applied to a coincidence.)*
 - **R8 — Type is the interface.** Hierarchy comes from size + text-token color (`text-primary→quaternary`), not weight extremes. Three weights only: 400 · 500 · 600. Fixed scale (display tiers + text-xl…2xs + eyebrow). Mono for numerics/codes/timestamps.
 - **R9 — Flat by default.** Separate regions with space and stepped backgrounds first, hairlines second, borders third, shadows last (genuine overlays only). No shadows on cards, rows, buttons, or chrome.
 - **R10 — Soft geometry.** Radius scale `sm 6 · md 8 · lg 12 · xl 16 · 2xl 24 · full` — buttons/inputs `md`, cards `xl`, hero surfaces `2xl`, chips `full`.
@@ -161,7 +161,7 @@ With the full KB available, these rules are the *floor* and the KB is the depth 
 
 
 ---
-*Version 1.3.6 · 2026-08-01 · Source of truth: the author's private practice repo; this sealed copy is the canonical public form — latest always at the dist URL in the boot header. v1.3.1: public artifacts made product-clean. v1.3.2: commercialization-audit fixes (no private-repo links in public artifacts; install paths self-contained). v1.3.3: +R48 (a content switcher governs only what's below it); 10k digest trimmed of a duplicate dist URL to fit the cap. v1.3.4: +R49 (an index and a map are different artifacts) and +R50 (entity before attribute), both harvested from an information-architecture audit and the tree test that falsified its main recommendation. v1.3.5: +R53 (a status dot belongs inside a container, or not at all) — harvested from Chase's standing gripe about generated output and sharpened by his own correction (the alternative to a bare dot is an icon; the dot's only home is a contained badge/pill). v1.3.6: product-separation scrub of §G provenance — R47–R52 named products, a client, and personal projects in their provenance notes; provenance now records the *situation* (a knowledge-base app, a design exercise, a filing card) rather than the property. Evidence and dates preserved; identifying nouns are not. Full provenance lives in the private practice repo. Form modeled on HeroUI Design Taste + Untitled UI AGENT.md; substance from the portable core only. §G grows through PROCESS §6 harvest — numbers stay stable; amendments append.*
+*Version 1.3.7 · 2026-08-01 · Source of truth: the author's private practice repo; this sealed copy is the canonical public form — latest always at the dist URL in the boot header. v1.3.1: public artifacts made product-clean. v1.3.2: commercialization-audit fixes (no private-repo links in public artifacts; install paths self-contained). v1.3.3: +R48 (a content switcher governs only what's below it); 10k digest trimmed of a duplicate dist URL to fit the cap. v1.3.4: +R49 (an index and a map are different artifacts) and +R50 (entity before attribute), both harvested from an information-architecture audit and the tree test that falsified its main recommendation. v1.3.5: +R53 (a status dot belongs inside a container, or not at all) — harvested from Chase's standing gripe about generated output and sharpened by his own correction (the alternative to a bare dot is an icon; the dot's only home is a contained badge/pill). v1.3.6: product-separation scrub of §G provenance — R47–R52 named products, a client, and personal projects in their provenance notes; provenance now records the *situation* (a knowledge-base app, a design exercise, a filing card) rather than the property. Evidence and dates preserved; identifying nouns are not. Full provenance lives in the private practice repo. v1.3.7: R7 refined in place (accent and status keep separate token names at the same hue) — settles the one craft divergence the August retro found across three sealed runs. Form modeled on HeroUI Design Taste + Untitled UI AGENT.md; substance from the portable core only. §G grows through PROCESS §6 harvest — numbers stay stable; amendments append.*
 
 
 ════════════════════════ DOCUMENT 3 of 3 · PROCESS — the operating loop ════════════════════════
