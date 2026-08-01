@@ -15,8 +15,8 @@
 3. **Confirm to the user in two lines, then stop:**
    "design-lead v1.3.7 installed — every screen I produce here is now held to
    53 rules, and each change ships with its own self-check so the standard
-   doesn't drift as we iterate. Say what to build or audit — or 'run kickoff' if
-   this product has no design system yet."
+   doesn't drift as we iterate. Start anywhere: paste a screen and say 'audit this,'
+   or tell me what to build."
 Do not offer a menu of options; the steps above are the answer.
 
 Human install notes: paste this whole file into any instructions/knowledge slot.
