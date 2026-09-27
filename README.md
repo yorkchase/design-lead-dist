@@ -4,8 +4,6 @@
 
 Two moves: copy your tier below → paste it where your tool takes instructions. That's the whole install.
 
-**Want your own version, with your rules?** Build one on the free [design-lead standard](https://github.com/yorkchase/design-lead-standard) (MIT scaffold); the full knowledge canon behind this practice is licensed separately (see the standard's CANON.md).
-
 ## What installing gets you
 
 - **A constitution, held on every iteration** — semantic tokens only, an accessibility floor, one primary action per view, complete states, calm over urgency: numbered rules the AI operates under, not vibes.
@@ -128,4 +126,4 @@ R39 Guidance through action — explanatory copy is a design smell; word-budget 
 
 The portable floor of a larger private practice: a constitution, an operating loop, and a bootstrap — designed to degrade honestly without their knowledge base, validated cross-model under sealed conditions (2026-07).
 
-© Chase York. **License:** free to install and operate as-is, in any AI tool, including for commercial design work — that is what it's for. Not licensed: modifying it, republishing it, or building derivative practices or products from it. Want a practice of your own? Use the [MIT standard](https://github.com/yorkchase/design-lead-standard).
+© Chase York. **License:** free to install and operate as-is, in any AI tool, including for commercial design work — that is what it's for. Not licensed: modifying it, republishing it, or building derivative practices or products from it.
