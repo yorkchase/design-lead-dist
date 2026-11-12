@@ -233,8 +233,9 @@ locally optimal choices that compound into **myopic deviation** (`research/plann
 
 **Scope, so this does not become ceremony:** a request that is complex, unclear, or touches many files
 gets the full check. A fix with one obvious answer does not — the same *full vs. light* split this
-document already makes. And **no separate mode**: Cursor's most damaging reported failures are
-plan-mode-silently-becoming-agent-mode, and a rule that always applies has no transition to get wrong.
+document already makes. And **no separate mode**: where a tool has a plan mode, its most damaging reported
+failures are the plan mode silently becoming the doing mode, and a rule that always applies has no
+transition to get wrong.
 
 ### 0 · Understand (words before pixels — R19)
 Write, before any UI:
